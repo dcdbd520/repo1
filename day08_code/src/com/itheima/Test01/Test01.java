@@ -30,5 +30,6 @@ public class Test01 {
         for (int i = p.length - 1; i >= 0; i--) {
             System.out.print(p[i]+" ");
         }
+		System.out.println("修改提交");
     }
 }
